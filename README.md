@@ -1,2 +1,3 @@
 # SmartRidingKit
-Techical Presentation: https://youtu.be/qRd5QxmNIlk
+Techical Presentation: 
+Business Presentation : https://drive.google.com/open?id=1K6SqODOaN4SfQ51Hg6u9D-InpUtQxSGv
